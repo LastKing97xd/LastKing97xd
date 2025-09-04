@@ -3,12 +3,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I have a bachelor's degree in Computer Ingineering from the Jose Faustino Sanchez Carrion National University.\
-👨‍💻 &nbsp;I am Currently Working at AXSeniors as Developer.\
+👨‍💻 &nbsp;I am Currently Working at Greenti as Developer Mobile.\
 💡 &nbsp;I like to explore new mobile development technologies to expand my knowledge and mastery of the subject.\
 ✍️ &nbsp;In my free time, I dedicate myself to developing mobile applications for personal or business projects.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at davidanthonyhidalgo@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1_Ej1K_9ic9sRnR2f9UqbbRPLbwRUudsx/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1kU3dGRzPY_6sgnrk0MjnZYm9ZHePX8K4/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ## My Skills Include
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
